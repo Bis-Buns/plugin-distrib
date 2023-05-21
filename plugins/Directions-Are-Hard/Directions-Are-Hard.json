@@ -1,0 +1,16 @@
+{
+  "Author": "Clug Engineering Division",
+  "Name": "Directions-Are-Hard",
+  "InternalName": "Directions-Are-Hard",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "Tanks go left, Party goes right",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Is that a Ultimate Legend on the floor?",
+  "AcceptsFeedback": true
+}

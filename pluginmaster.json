@@ -1,6 +1,25 @@
 [
     {
         "Author": "Clug Engineering Division",
+        "Name": "Death-Notify",
+        "Punchline": "Did the Phys-ranged just stand in the TB",
+        "Description": "For when the phys-ranged stands in shit that they really shouldn't",
+        "InternalName": "Death-Notify",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Death-Notify.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1684694027"
+    },
+    {
+        "Author": "Clug Engineering Division",
         "Name": "Apple-O-Matic",
         "Punchline": "I fucking love TEA",
         "Description": "You know what you did",
@@ -16,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684693513"
+        "LastUpdate": "1684694027"
     },
     {
         "Author": "Clug Engineering Division",
@@ -35,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684693513"
+        "LastUpdate": "1684694027"
     }
 ]

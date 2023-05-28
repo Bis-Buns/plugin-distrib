@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684694027"
+        "LastUpdate": "1685234057"
     },
     {
         "Author": "Clug Engineering Division",
@@ -24,7 +24,7 @@
         "Punchline": "I fucking love TEA",
         "Description": "You know what you did",
         "InternalName": "Apple-o-Matic",
-        "AssemblyVersion": "0.3.0.4",
+        "AssemblyVersion": "0.3.1.0",
         "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684694027"
+        "LastUpdate": "1685234057"
     },
     {
         "Author": "Clug Engineering Division",
@@ -54,6 +54,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684694027"
+        "LastUpdate": "1685234057"
     }
 ]

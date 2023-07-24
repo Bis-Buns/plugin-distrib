@@ -16,26 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685234057"
-    },
-    {
-        "Author": "Clug Engineering Division",
-        "Name": "Apple-O-Matic",
-        "Punchline": "I fucking love TEA",
-        "Description": "You know what you did",
-        "InternalName": "Apple-o-Matic",
-        "AssemblyVersion": "0.3.1.0",
-        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Apple-o-Matic.png",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1685234057"
+        "LastUpdate": "1690223074"
     },
     {
         "Author": "Clug Engineering Division",
@@ -54,6 +35,25 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685234057"
+        "LastUpdate": "1690223074"
+    },
+    {
+        "Author": "Clug Engineering Division",
+        "Name": "Apple-O-Matic",
+        "Punchline": "I fucking love TEA",
+        "Description": "You know what you did",
+        "InternalName": "Apple-o-Matic",
+        "AssemblyVersion": "0.3.1.1",
+        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Apple-o-Matic.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1690223074"
     }
 ]

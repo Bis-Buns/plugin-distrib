@@ -1,0 +1,16 @@
+{
+  "Author": "Clug Engineering Division",
+  "Name": "Hesperos-per-Second",
+  "InternalName": "Hesperos-per-Second",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "☝️🤓",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "☝️🤓",
+  "AcceptsFeedback": true
+}

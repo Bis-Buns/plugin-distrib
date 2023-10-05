@@ -16,18 +16,18 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696464447"
+        "LastUpdate": "1696533413"
     },
     {
         "Author": "Clug Engineering Division",
         "Name": "Hesperos-per-Second",
-        "Punchline": "\u261d\ufe0f\ud83e\udd13",
-        "Description": "\u261d\ufe0f\ud83e\udd13",
+        "Punchline": "48.2k",
+        "Description": "",
         "InternalName": "Hesperos-per-Second",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Hesperos-per-Second.png",
         "IsHide": false,
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696464447"
+        "LastUpdate": "1696533413"
     },
     {
         "Author": "Clug Engineering Division",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696464447"
+        "LastUpdate": "1696533413"
     },
     {
         "Author": "Clug Engineering Division",
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696464447"
+        "LastUpdate": "1696533413"
     }
 ]

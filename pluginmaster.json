@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1707424813"
+        "LastUpdate": "1707427271"
     },
     {
         "Author": "Clug Engineering Division",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1707424813"
+        "LastUpdate": "1707427271"
     },
     {
         "Author": "Clug Engineering Division",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1707424813"
+        "LastUpdate": "1707427271"
     },
     {
         "Author": "Clug Engineering Division",
@@ -62,7 +62,7 @@
         "Punchline": "Is that a Ultimate Legend on the floor?",
         "Description": "Tanks go left, Party goes right",
         "InternalName": "Directions-Are-Hard",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.0.1",
         "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1707424813"
+        "LastUpdate": "1707427271"
     }
 ]

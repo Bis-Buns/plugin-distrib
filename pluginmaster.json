@@ -1,25 +1,6 @@
 [
     {
         "Author": "Clug Engineering Division",
-        "Name": "Directions-Are-Hard",
-        "Punchline": "Is that a Ultimate Legend on the floor?",
-        "Description": "Tanks go left, Party goes right",
-        "InternalName": "Directions-Are-Hard",
-        "AssemblyVersion": "1.1.0.1",
-        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Directions-Are-Hard.png",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1709247510"
-    },
-    {
-        "Author": "Clug Engineering Division",
         "Name": "Hesperos-per-Second",
         "Punchline": "48.2k",
         "Description": "",
@@ -35,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709247510"
+        "LastUpdate": "1711407911"
     },
     {
         "Author": "Clug Engineering Division",
@@ -43,7 +24,7 @@
         "Punchline": "I fucking love TEA",
         "Description": "You know what you did",
         "InternalName": "Apple-o-Matic",
-        "AssemblyVersion": "0.3.1.7",
+        "AssemblyVersion": "0.3.1.8",
         "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -54,7 +35,26 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709247510"
+        "LastUpdate": "1711407911"
+    },
+    {
+        "Author": "Clug Engineering Division",
+        "Name": "Directions-Are-Hard",
+        "Punchline": "Is that a Ultimate Legend on the floor?",
+        "Description": "Tanks go left, Party goes right",
+        "InternalName": "Directions-Are-Hard",
+        "AssemblyVersion": "1.1.0.1",
+        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Directions-Are-Hard.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1711407911"
     },
     {
         "Author": "Clug Engineering Division",
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709247510"
+        "LastUpdate": "1711407911"
     }
 ]

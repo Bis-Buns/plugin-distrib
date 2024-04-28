@@ -1,0 +1,24 @@
+{
+  "Author": "Big Dog",
+  "Name": "Job Roulette",
+  "InternalName": "JobRoulette",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "roulettes",
+    "roulette",
+    "jobs",
+    "random",
+    "choice",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Can't decide what to play? Leave it to chance!",
+  "AcceptsFeedback": true
+}

@@ -74,32 +74,5 @@
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1711407911"
-    },
-    {
-    "Author": "Big Dog",
-    "Name": "Job Roulette",
-    "Punchline": "Can't decide what to play? Leave it to chance!",
-    "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
-    "InternalName": "jobRoulette",
-    "AssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Job-Roulette/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Job-Roulette/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Job-Roulette/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1711407911"
-    "Tags": [
-        "roulettes",
-        "roulette",
-        "jobs",
-        "random",
-        "choice",
-        "plugin",
-        "goats"
-    ]
     }
 ]

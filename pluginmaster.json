@@ -1,22 +1,22 @@
 [
     {
         "Author": "Clug Engineering Division",
-        "Name": "Hesperos-per-Second",
-        "Punchline": "48.2k",
-        "Description": "",
-        "InternalName": "Hesperos-per-Second",
-        "AssemblyVersion": "1.0.1.2",
+        "Name": "Death-Notify",
+        "Punchline": "Did the Phys-ranged just stand in the TB",
+        "Description": "For when the phys-ranged stands in shit that they really shouldn't",
+        "InternalName": "Death-Notify",
+        "AssemblyVersion": "0.1.0.0",
         "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Hesperos-per-Second.png",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Death-Notify.png",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1711407911"
+        "LastUpdate": "1714347689"
     },
     {
         "Author": "Clug Engineering Division",
@@ -35,7 +35,53 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Apple-o-Matic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1711407911"
+        "LastUpdate": "1714347689"
+    },
+    {
+        "Author": "Clug Engineering Division",
+        "Name": "Hesperos-per-Second",
+        "Punchline": "48.2k",
+        "Description": "",
+        "InternalName": "Hesperos-per-Second",
+        "AssemblyVersion": "1.0.1.2",
+        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Hesperos-per-Second.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Hesperos-per-Second/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1714347689"
+    },
+    {
+        "Author": "Big Dog",
+        "Name": "Job Roulette",
+        "Punchline": "Can't decide what to play? Leave it to chance!",
+        "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
+        "InternalName": "JobRoulette",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "roulettes",
+            "roulette",
+            "jobs",
+            "random",
+            "choice",
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/JobRoulette.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1714347689"
     },
     {
         "Author": "Clug Engineering Division",
@@ -54,25 +100,6 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1711407911"
-    },
-    {
-        "Author": "Clug Engineering Division",
-        "Name": "Death-Notify",
-        "Punchline": "Did the Phys-ranged just stand in the TB",
-        "Description": "For when the phys-ranged stands in shit that they really shouldn't",
-        "InternalName": "Death-Notify",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/Bis-Buns/plugin-distrib",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/Death-Notify.png",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Death-Notify/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1711407911"
+        "LastUpdate": "1714347689"
     }
 ]

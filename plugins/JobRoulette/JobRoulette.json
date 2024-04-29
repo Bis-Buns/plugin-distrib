@@ -2,7 +2,7 @@
   "Author": "Big Dog",
   "Name": "Job Roulette",
   "InternalName": "JobRoulette",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
   "ApplicableVersion": "any",
   "Tags": [

@@ -1,24 +1,16 @@
 {
-  "Author": "Big Dog",
-  "Name": "Job Roulette",
-  "InternalName": "JobRoulette",
-  "AssemblyVersion": "0.0.0.4",
-  "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "roulettes",
-    "roulette",
-    "jobs",
-    "random",
-    "choice",
-    "plugin",
-    "goats"
-  ],
-  "DalamudApiLevel": 9,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "Can't decide what to play? Leave it to chance!",
-  "AcceptsFeedback": true
+    "Author": "Big Dog",
+    "Name": "Job Roulette",
+    "InternalName": "JobRoulette",
+    "Punchline": "Can't decide what to play? Leave it to chance!",
+    "Description": "Use /jobroll to open the main window.\nUse /jrcfg to configure what jobs to display.",
+    "AssemblyVersion": "1.1.1.0",
+    "TestingAssemblyVersion": "1.1.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "LastUpdate": 1716485950,
+    "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/JobRoulette.png",
+    "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/JobRoulette/testing.zip"
 }

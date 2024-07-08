@@ -32,6 +32,22 @@
         "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/Directions-Are-Hard/testing.zip"
     },
     {
+        "Author": "Clug Engineering Division",
+        "Name": "IconViewer",
+        "InternalName": "IconViewer",
+        "Punchline": "Icon viewing tools",
+        "Description": "Icon viewing tools",
+        "AssemblyVersion": "1.0.0.0",
+        "TestingAssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LastUpdate": 1720397827,
+        "IconUrl": "https://raw.githubusercontent.com/Bis-Buns/plugin-distrib/main/icons/IconViewer.png",
+        "DownloadLinkInstall": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/IconViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/IconViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bis-Buns/plugin-distrib/raw/main/plugins/IconViewer/testing.zip"
+    },
+    {
         "Author": "Big Dog",
         "Name": "Job Roulette",
         "InternalName": "JobRoulette",
